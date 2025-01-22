@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/jinhan04/jinhan04/blob/output/github-snake-dark.svg" width="100%" />
+  <img src="https://github.com/jinhan04/Test/blob/output/github-snake-dark.svg" width="100%" />
 </div>
 
 ---
