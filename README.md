@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Jinhan's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Jinhan+in+korea.;I'm+in+cryptographic+lab+in+kookmin+university.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Jinhan+in+korea.;I'm+in+cryptographic+lab+in+kookmin+university.;I'm+learning+cryptography%2C+programming%2C+and+security!)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
@@ -32,29 +32,23 @@
 </div>
 
 <div align="center">
-  <!-- GitHub Snake Animation -->
   <img src="https://github.com/jinhan04/jinhan04/blob/output/github-snake-dark.svg" width="100%" />
 </div>
 
-<!-- Introducing Magic with Animated Stars Background -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/dark-animated-header.svg" width="100%" />
-</div>
+---
 
-<!-- Footer Section with animated floating text -->
-<div align="center">
-  <a href="https://github.com/jinhan04" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20with%20me-%23181818.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jinhan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+## 🛠️ **Technologies & Tools**
 
-<!-- Animated Floating Icons -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/jinhan/" target="_blank">
-    <img src="https://github.com/jinhan04/jinhan04/blob/output/github-snake-dark.svg" width="80%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-%2300D8FF?logo=react&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Node.js-%23339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Docker-%230db7ed?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-GraphQL-%232c3e50?logo=graphql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Nginx-%23009639?logo=nginx&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Vim-%23003000?logo=vim&logoColor=white&style=flat-square" />
+</p>
 
+## 🔥 **GitHub Stats & Activity**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinhan04&theme=dark&hide_border=true" />
+</div>
