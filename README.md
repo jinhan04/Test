@@ -32,5 +32,29 @@
 </div>
 
 <div align="center">
+  <!-- GitHub Snake Animation -->
   <img src="https://github.com/jinhan04/jinhan04/blob/output/github-snake-dark.svg" width="100%" />
 </div>
+
+<!-- Introducing Magic with Animated Stars Background -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/dark-animated-header.svg" width="100%" />
+</div>
+
+<!-- Footer Section with animated floating text -->
+<div align="center">
+  <a href="https://github.com/jinhan04" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20with%20me-%23181818.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jinhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<!-- Animated Floating Icons -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/jinhan/" target="_blank">
+    <img src="https://github.com/jinhan04/jinhan04/blob/output/github-snake-dark.svg" width="80%" />
+  </a>
+</div>
+
